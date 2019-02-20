@@ -1,5 +1,6 @@
 # 自行維護的詞庫資源  
-欲使用者請先將GITHUB的帳號告知管理者，以添加編輯權限。  
+欲編輯者請先將GITHUB的帳號告知管理者，以添加編輯權限。  
+(僅下載則無需告知，根據步驟1.即可clone)  
 目前管理者: 游璿達  
 聯絡方式:iima.yu@fubon.com  
   
@@ -11,7 +12,7 @@
 git config --global user.name 'your_name'
 git config --global user.email 'your_email'
 ```
-
+  
 ### 1.從github把此專案拉到本地  
 到你想要的路徑下，點滑鼠右鍵，打開git bash。(會clone一個資料夾到local)  
 ```git
