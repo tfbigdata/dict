@@ -13,9 +13,9 @@ git config --global user.email 'your_email'
 ```
 
 ### 1.從github把此專案拉到本地  
-到你想要的路徑下，點滑鼠右鍵，打開git bash。(會clone一個資料夾到本地)  
+到你想要的路徑下，點滑鼠右鍵，打開git bash。(會clone一個資料夾到local)  
 ```git
-git -c http.sslVerify=false clone https://github.com/iimahao/tfb_bigdata_dict.git
+git -c http.sslVerify=false clone https://github.com/tfbigdata/dict.git
 ```
   
 ### 2.上傳變更  
