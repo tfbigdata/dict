@@ -7,10 +7,10 @@
   
 ## 使用說明:  
 ### 0.設定本地git帳號(從任何地方打開git bash)  
-(雖然以下設定的帳號與github帳號無關，但每個人都必須要有github帳號才能push。)  
+(以下設定的帳號與github帳號無關。)  
 ```git
-git config --global user.name 'your_name'
-git config --global user.email 'your_email'
+git config --global user.name 'your_english_name'
+git config --global user.email 'your_fubon_email'
 ```
   
 ### 1.從github把此專案拉到本地  
