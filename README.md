@@ -35,3 +35,14 @@ git -c http.sslVerify=false push
 ```git
 git -c http.sslVerify=false pull
 ```
+
+## 檔案說明:
+fbdict.txt = 自訂的詞庫  
+dict_kw.csv = 自訂的主題詞庫  
+  
+dict.txt.big = jieba繁體詞庫  
+  
+ch_stopword.txt = 中文停用詞(簡)  
+baidu_stopword.txt = 百度停用詞(簡)  
+4u_stopword.txt = 四川大學停用詞(簡)  
+h_stopword.txt = 哈爾濱工業大學停用詞(簡)  
