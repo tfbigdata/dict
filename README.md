@@ -48,5 +48,5 @@ baidu_stopword.txt = 百度停用詞(簡)
 h_stopword.txt = 哈爾濱工業大學停用詞(簡)  
 
 ## 更新紀錄
-2019/02/10 新增fb_stopword.txt 作為自定義的stopword
-2019/02/23 刪除所有stopword的標點符號，改為集中在punc_stopword.txt，因為有些時候需要留標點符號，集中在一個txt可以自己選擇要不要刪標點。
+2019/02/10 新增fb_stopword.txt 作為自定義的stopword  
+2019/02/23 刪除所有stopword的標點符號，改為集中在punc_stopword.txt，因為有些時候需要留標點符號，集中在一個txt可以自己選擇要不要刪標點。  
