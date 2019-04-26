@@ -46,6 +46,8 @@ ch_stopword.txt = 中文停用詞(簡)
 baidu_stopword.txt = 百度停用詞(簡)  
 4u_stopword.txt = 四川大學停用詞(簡)  
 h_stopword.txt = 哈爾濱工業大學停用詞(簡)  
+opendata107road.csv = 台灣路名
+
 
 ## 更新紀錄
 2019/02/10 新增fb_stopword.txt 作為自定義的stopword  
